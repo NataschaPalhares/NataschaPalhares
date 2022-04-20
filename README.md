@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/NataschaPalhares">
-    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=NataschaPalhares&show_icons=true&theme=radical"/>
+    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=NataschaPalhares&show_icons=true&theme=radical&include_all_commits=trueNataschaPalhares&count_private=true"/>
     </div>
   
   <img align="center" alt="Natascha-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
