@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/NataschaPalhares">
-    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=NataschaPalhares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=NataschaPalhares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </div>
   
   <img align="center" alt="Natascha-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
